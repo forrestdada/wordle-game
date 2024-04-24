@@ -1,14 +1,4 @@
-/*
 
-    WordleGame.java
-
-    Class to instantiate and start a wordle game,
-    provided as a starting point for the COM6471
-    assignment in 2023.
-
-    Zhixiang Chen, October 2023
-
-*/
 
 import sheffield.*;
 
