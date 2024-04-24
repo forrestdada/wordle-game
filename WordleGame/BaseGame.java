@@ -1,17 +1,4 @@
-/*
 
-BaseGame.java
-Game base framework class
-
-Assignment for COM6471 Fundamentals of Object Oriented Programming (Autumn 2023-24)
-This assignment contains three student-completed java files and a java startup file provided by the tutor
-
-Author: Haolin Yang
-Registration No.: 230222782
-Creat Date : 15/11/2023
-Complete Date : 26/12/2023
-
-*/
 
 import java.io.IOException;
 import java.util.ArrayList;
